@@ -1,0 +1,11 @@
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\bin\Release\netcoreapp2.1\享元设计模式.deps.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\bin\Release\netcoreapp2.1\享元设计模式.runtimeconfig.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\bin\Release\netcoreapp2.1\享元设计模式.runtimeconfig.dev.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\bin\Release\netcoreapp2.1\享元设计模式.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\bin\Release\netcoreapp2.1\享元设计模式.pdb
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\obj\Release\netcoreapp2.1\享元设计模式.csprojAssemblyReference.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\obj\Release\netcoreapp2.1\享元设计模式.csproj.CoreCompileInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\obj\Release\netcoreapp2.1\享元设计模式.AssemblyInfoInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\obj\Release\netcoreapp2.1\享元设计模式.AssemblyInfo.cs
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\obj\Release\netcoreapp2.1\享元设计模式.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\享元设计模式\obj\Release\netcoreapp2.1\享元设计模式.pdb

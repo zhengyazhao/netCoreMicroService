@@ -1,0 +1,11 @@
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\bin\Release\netcoreapp2.1\多线程.deps.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\bin\Release\netcoreapp2.1\多线程.runtimeconfig.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\bin\Release\netcoreapp2.1\多线程.runtimeconfig.dev.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\bin\Release\netcoreapp2.1\多线程.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\bin\Release\netcoreapp2.1\多线程.pdb
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\obj\Release\netcoreapp2.1\多线程.csprojAssemblyReference.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\obj\Release\netcoreapp2.1\多线程.csproj.CoreCompileInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\obj\Release\netcoreapp2.1\多线程.AssemblyInfoInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\obj\Release\netcoreapp2.1\多线程.AssemblyInfo.cs
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\obj\Release\netcoreapp2.1\多线程.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\多线程\obj\Release\netcoreapp2.1\多线程.pdb

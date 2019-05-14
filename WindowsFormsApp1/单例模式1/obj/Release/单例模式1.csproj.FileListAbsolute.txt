@@ -1,0 +1,7 @@
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\单例模式1\obj\Release\单例模式1.csprojAssemblyReference.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\单例模式1\obj\Release\单例模式1.csproj.CoreCompileInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\单例模式1\bin\Release\单例模式1.exe.config
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\单例模式1\bin\Release\单例模式1.exe
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\单例模式1\bin\Release\单例模式1.pdb
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\单例模式1\obj\Release\单例模式1.exe
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\单例模式1\obj\Release\单例模式1.pdb

@@ -1,0 +1,14 @@
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.deps.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.pdb
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfo.cs
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.pdb
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csprojAssemblyReference.cache

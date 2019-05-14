@@ -1,0 +1,9 @@
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Common\bin\Release\netcoreapp2.1\Common.deps.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Common\bin\Release\netcoreapp2.1\Common.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Common\bin\Release\netcoreapp2.1\Common.pdb
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Common\obj\Release\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Common\obj\Release\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Common\obj\Release\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Common\obj\Release\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Common\obj\Release\netcoreapp2.1\Common.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Common\obj\Release\netcoreapp2.1\Common.pdb

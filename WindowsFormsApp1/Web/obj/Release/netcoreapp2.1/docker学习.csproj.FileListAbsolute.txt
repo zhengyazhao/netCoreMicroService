@@ -1,0 +1,15 @@
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\bin\Release\netcoreapp2.1\docker学习.deps.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\bin\Release\netcoreapp2.1\docker学习.runtimeconfig.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\bin\Release\netcoreapp2.1\docker学习.runtimeconfig.dev.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\bin\Release\netcoreapp2.1\docker学习.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\bin\Release\netcoreapp2.1\docker学习.pdb
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\obj\Release\netcoreapp2.1\docker学习.csprojAssemblyReference.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\obj\Release\netcoreapp2.1\docker学习.csproj.CoreCompileInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\obj\Release\netcoreapp2.1\docker学习.RazorAssemblyInfo.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\obj\Release\netcoreapp2.1\docker学习.RazorAssemblyInfo.cs
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\obj\Release\netcoreapp2.1\docker学习.AssemblyInfoInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\obj\Release\netcoreapp2.1\docker学习.AssemblyInfo.cs
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\obj\Release\netcoreapp2.1\docker学习.RazorTargetAssemblyInfo.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\obj\Release\netcoreapp2.1\docker学习.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\Web\obj\Release\netcoreapp2.1\docker学习.pdb

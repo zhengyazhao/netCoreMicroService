@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\netCore\\netCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\ConsulRegins\\ConsulRegins.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\ConsulRegins\\ConsulRegins.csproj",
+        "projectName": "ConsulRegins",
+        "projectPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\ConsulRegins\\ConsulRegins.csproj",
+        "packagesPath": "C:\\Users\\zhengyazhao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\ConsulRegins\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhengyazhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Iservice\\Iservice.csproj": {
+                "projectPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Iservice\\Iservice.csproj"
+              },
+              "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[0.7.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Iservice\\Iservice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Iservice\\Iservice.csproj",
+        "projectName": "Iservice",
+        "projectPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Iservice\\Iservice.csproj",
+        "packagesPath": "C:\\Users\\zhengyazhao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Iservice\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhengyazhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\zhengyazhao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhengyazhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\netCore\\netCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\netCore\\netCore.csproj",
+        "projectName": "netCore",
+        "projectPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\netCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\zhengyazhao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\netCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zhengyazhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\ConsulRegins\\ConsulRegins.csproj": {
+                "projectPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\ConsulRegins\\ConsulRegins.csproj"
+              },
+              "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\zhengyazhao\\source\\repos\\WindowsFormsApp1\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[0.7.2.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

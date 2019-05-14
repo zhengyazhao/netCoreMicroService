@@ -1,0 +1,46 @@
+{
+  "ReRoutes": [
+
+    {
+      //下游路由模板，真实请求的路径
+      "DownstreamPathTemplate": "/api/{everything}",
+      //请求的方式，例如：http,https
+      "DownstreamScheme": "http",
+      //服务器名称
+      "ServiceName": "zyz",
+      //启用consul服务
+      "UseServiceDiscovery": true,
+      //服务熔断
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3, //允许多少次异常请求
+        "DurationOfBreak": 5, //熔断时间，单位为秒
+        "TimeoutValue": 5000 //如果下游请求的处理时间超过多少则自动设置超时
+      },
+      "HttpHandlerOptions": {
+        "AllowAutoRedirect": false,
+        "UseCookieContainer": false,
+        "UseTracing": false
+      },
+      "ReRouteIsCaseSensitive": false,
+      //负载均衡：
+      //RoundRobin轮流发送;
+      //LeastConnection – 将请求发往最空闲的那个服务器
+      //NoLoadBalance – 总是发往第一个请求或者是服务发现
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      },
+      //上游地址配置
+      "UpstreamPathTemplate": "/test/{everything}",
+      //上游支持的请求类型
+      "UpstreamHttpMethod": [ "Post", "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:8683",
+    //consul服务器地址和ip
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 8500
+    }
+  }
+}

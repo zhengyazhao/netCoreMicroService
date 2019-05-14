@@ -1,0 +1,11 @@
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\bin\Debug\netcoreapp2.1\aspnetCoreHystrix.deps.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\bin\Debug\netcoreapp2.1\aspnetCoreHystrix.runtimeconfig.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\bin\Debug\netcoreapp2.1\aspnetCoreHystrix.runtimeconfig.dev.json
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\bin\Debug\netcoreapp2.1\aspnetCoreHystrix.dll
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\obj\Debug\netcoreapp2.1\aspnetCoreHystrix.csprojAssemblyReference.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\obj\Debug\netcoreapp2.1\aspnetCoreHystrix.csproj.CoreCompileInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\obj\Debug\netcoreapp2.1\aspnetCoreHystrix.RazorAssemblyInfo.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\obj\Debug\netcoreapp2.1\aspnetCoreHystrix.RazorAssemblyInfo.cs
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\obj\Debug\netcoreapp2.1\aspnetCoreHystrix.AssemblyInfoInputs.cache
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\obj\Debug\netcoreapp2.1\aspnetCoreHystrix.AssemblyInfo.cs
+C:\Users\zhengyazhao\source\repos\WindowsFormsApp1\aspnetCoreHystrix\obj\Debug\netcoreapp2.1\aspnetCoreHystrix.RazorTargetAssemblyInfo.cache
